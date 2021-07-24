@@ -10,7 +10,7 @@ function App() {
           GreenTech Revolution is about to come
         </p>
         <p>
-          Stay Tuned
+          Stay Tuneds
         </p>
         <a
           className="App-link"

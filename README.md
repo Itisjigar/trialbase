@@ -1,3 +1,7 @@
+Trialbase is a feature based project where I just do experinements with different technologies, where I hit the trials of the technologies upfront.
+
+Firtly there is a version where I showcase how exactly I can share the Map API connection with my app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
